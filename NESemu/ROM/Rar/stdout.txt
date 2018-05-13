@@ -1,0 +1,154 @@
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Zombie_nation.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0x03fb57b6
+ ROM MD5:  0xe83eefc4ae17b50c3d6910922eb3e1ed
+ Mapper:  4
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_c.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   15 x  8KiB
+ ROM CRC32:  0xc4bdb76e
+ ROM MD5:  0xee86fea38e891c06b0ee5842373494e5
+ Mapper:  4
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_mario_brothers.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    1 x  8KiB
+ ROM CRC32:  0x8e2bd25c
+ ROM MD5:  0xb36a755bbfdda7ca3716c4bebf885344
+ Mapper:  0
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_mario_brothers3.nes...
+
+ PRG ROM:   16 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0x2e6301ed
+ ROM MD5:  0x55b7111567c1709e849c574078699577
+ Mapper:  4
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_mario_brothers2.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0x57ac67af
+ ROM MD5:  0xccd25b4fa7acddef38d75212ae0e5432
+ Mapper:  4
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\super_mario_brothers_duck_hunt_track_meet.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:    8 x  8KiB
+ ROM CRC32:  0x60e63537
+ ROM MD5:  0x5f11fc50bfc5d164188cae495f59eb65
+ Mapper:  1
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\super_mario_brothers_duck_hunt.nes...
+
+ PRG ROM:    4 x 16KiB
+ CHR ROM:    2 x  8KiB
+ ROM CRC32:  0xd26efd78
+ ROM MD5:  0xd821fb982ce47299fdb08a027ec0b8be
+ Mapper:  66
+ Mirroring: Horizontal
+The iNES header contains incorrect information.  For now, the information will be corrected in RAM.  Mirroring should be set to "Vertical".  
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_mario_brothers.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    1 x  8KiB
+ ROM CRC32:  0x8e2bd25c
+ ROM MD5:  0xb36a755bbfdda7ca3716c4bebf885344
+ Mapper:  0
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Super_mario_brothers.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    1 x  8KiB
+ ROM CRC32:  0x8e2bd25c
+ ROM MD5:  0xb36a755bbfdda7ca3716c4bebf885344
+ Mapper:  0
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\World_games.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:    0 x  8KiB
+ ROM CRC32:  0xf613a8f9
+ ROM MD5:  0x5989866d8f955b49eeb06980ee7c491c
+ Mapper:  7
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Silk_worm.nes...
+
+ PRG ROM:    8 x 16KiB
+ CHR ROM:   16 x  8KiB
+ ROM CRC32:  0xe74a91bb
+ ROM MD5:  0x312a1582d43f307cb952513c3093c278
+ Mapper:  1
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Tetris-t.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    4 x  8KiB
+ ROM CRC32:  0xadce5a3b
+ ROM MD5:  0x78276bb8357082724134a66f64f31362
+ Mapper:  3
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\L'empereur.nes...
+
+ PRG ROM:   16 x 16KiB
+ CHR ROM:   32 x  8KiB
+ ROM CRC32:  0x307ecfc7
+ ROM MD5:  0xbe450785c87ffb81cd7fcb69a92fe8c0
+ Mapper:  0
+ Mirroring: Horizontal
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Tetris-t.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    4 x  8KiB
+ ROM CRC32:  0xadce5a3b
+ ROM MD5:  0x78276bb8357082724134a66f64f31362
+ Mapper:  3
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Tetris-t.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    4 x  8KiB
+ ROM CRC32:  0xadce5a3b
+ ROM MD5:  0x78276bb8357082724134a66f64f31362
+ Mapper:  3
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Tetris-t.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    4 x  8KiB
+ ROM CRC32:  0xadce5a3b
+ ROM MD5:  0x78276bb8357082724134a66f64f31362
+ Mapper:  3
+ Mirroring: Vertical
+
+Loading C:\Documents and Settings\Administrateur\Mes documents\FFDownloads\600 Nintendo Games (Nes ROMS)\Tetris-t.nes...
+
+ PRG ROM:    2 x 16KiB
+ CHR ROM:    4 x  8KiB
+ ROM CRC32:  0xadce5a3b
+ ROM MD5:  0x78276bb8357082724134a66f64f31362
+ Mapper:  3
+ Mirroring: Vertical
+
